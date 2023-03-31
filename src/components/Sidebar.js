@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { Box, Text, Button,ResponsiveContext } from "grommet";
+import { Box, Text,ResponsiveContext } from "grommet";
 import { Home, Group, Clipboard, System } from "grommet-icons";
 
 const SideBar = () => {
